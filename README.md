@@ -29,16 +29,6 @@ Currently focused on: Web Development and UX/UI Design
 
 
 
----
-
-### 📈 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tsundere-e&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsundere-e&layout=compact&langs_count=7&theme=rose"/>
-</div>
-
----
-
 <div align="center">
   <sub>Cutest coder out there!</sub>
 </div>
