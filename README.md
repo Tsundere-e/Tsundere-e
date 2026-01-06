@@ -1,7 +1,7 @@
 # Hello, I am Ana! ✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPxyphOO7M6Q/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBzbjY5aHVpdjRwcW9sbm5kN29xZ2FuZHFiMXEwMGMwamZwYWVlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GYtblmdLnemlO/giphy.gif" width="200" />
 </div>
 
 ### 🌸 About Me
