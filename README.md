@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello, I am Ana! ✨
 
-<!--
-**Tsundere-e/Tsundere-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4ZzR4eXF4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPxyphOO7M6Q/giphy.gif" width="200" />
+</div>
 
-Here are some ideas to get you started:
+### 🌸 About Me
+I am on a continuous learning journey in technology! I love turning ideas into projects and am always looking for new challenges to improve my skills. I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on: Web Development and UX/UI Design
+- 🌱 Learning: HTML, CSS, JavaScript, and Git/GitHub
+- 🎨 I love: Mixing technology with creativity!
+📧 How to find me: [analuisa.r.dos.s@gmail.com]
+
+---
+
+### 🛠️ Minha Toolbox (O que ando praticando)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📂 Meus Projetos (W.I.P - Work In Progress)
+*Acesse meus Projetos mais recentes aqui*
+[https://tsundere-e.onrender.com]
+
+
+
+---
+
+### 📈 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tsundere-e&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsundere-e&layout=compact&langs_count=7&theme=rose"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito com ✨ e muita vontade de aprender!</sub>
+</div>
