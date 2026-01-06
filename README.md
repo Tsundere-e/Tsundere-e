@@ -14,7 +14,7 @@ Currently focused on: Web Development and UX/UI Design
 
 ---
 
-### 🛠️ Minha Toolbox (O que ando praticando)
+### 🛠️ My Toolbox (what am i studying?)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,8 +23,8 @@ Currently focused on: Web Development and UX/UI Design
 
 ---
 
-### 📂 Meus Projetos (W.I.P - Work In Progress)
-*Acesse meus Projetos mais recentes aqui*
+### 📂 My projects (W.I.P - Work In Progress)
+*Check out my latest projects here!*
 [https://tsundere-e.onrender.com]
 
 
