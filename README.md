@@ -1,4 +1,4 @@
-# Hello, I am Ana! ✨
+# Hello, I am Ana! 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBzbjY5aHVpdjRwcW9sbm5kN29xZ2FuZHFiMXEwMGMwamZwYWVlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GYtblmdLnemlO/giphy.gif" width="200" />
@@ -40,5 +40,5 @@ Currently focused on: Web Development and UX/UI Design
 ---
 
 <div align="center">
-  <sub>Feito com ✨ e muita vontade de aprender!</sub>
+  <sub>Cutest coder out there!</sub>
 </div>
