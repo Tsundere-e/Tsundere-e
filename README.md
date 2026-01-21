@@ -46,7 +46,7 @@ $\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🌸 [**Sakura Zen**](https://sakura-zen-omega.vercel.app/) | A task organization app focused on mental looseness and creative problem solving. | `React` `Tailwind` `Vite` |
+| 🌸 $\color{pink}{\textsf[**Sakura Zen**]}}$(https://sakura-zen-omega.vercel.app/) | A task organization app focused on mental looseness and creative problem solving. | `React` `Tailwind` `Vite` |
 | 🍓 [**Viete-Solver**](https://tsundere-e.onrender.com) | A specialized cubic equation solver powered by the Gemini API. | `Python` `AI` `Gemini API` |
 | 🎀 [**My Portfolio**](https://tsundere-e.onrender.com) | My central hub for all my latest projects and W.I.P.s. | `Web` `Design` |
 
