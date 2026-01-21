@@ -1,7 +1,7 @@
 # Hi, I'm Ana Luisa! ✨
 
 <div align="center">
-  <img src="https://i.ibb.co/QjTmLz7H/3-Sem-T-tulo-20260121095500.png" width="100%" />
+  <img src="https://i.ibb.co/QjTmLz7H/3-Sem-T-tulo-20260121095500.png" />
 </div>
 
 ### 🌸 About Me
@@ -50,7 +50,7 @@ I am a Junior Developer and AI enthusiast! I love turning ideas into projects an
 
 | 🎀 Melody Boutique | 💻 Python Logic |
 | :---: | :---: |
-| <img src="https://i.ibb.co/r2gD4Vqr/IMG-20260121-132036.jpg" width="100%" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
+| <img src="https://i.ibb.co/r2gD4Vqr/IMG-20260121-132036.jpg" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
 | [**View Design**](https://tsundere-e.onrender.com) | [**View Repo**](https://github.com/Tsundere-e) |
 
 
