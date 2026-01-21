@@ -4,7 +4,7 @@ $$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
 </div>
 
-$\Huge{\color{pink}{\textsf{**🌸 About Me**}}}$
+$\Huge{\color{pink}{\textsf{🌸 About Me}}}$
 
 $\textsf{\small{I am a Junior Developer and AI enthusiast! I love turning ideas into}}$
 $\textsf{\small{projects and am on a continuous learning journey in technology!}}$
