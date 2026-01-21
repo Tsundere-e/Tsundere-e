@@ -50,7 +50,7 @@ I am a Junior Developer and AI enthusiast! I love turning ideas into projects an
 
 | 🎀 Melody Boutique | 💻 Python Logic |
 | :---: | :---: |
-| <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" border="0" /></a>| <img <a href="https://ibb.co/VY1HqvbD"><img src="https://i.ibb.co/XxQyCz6p/IMG-20260121-134053.jpg" border="0" /></a> |
+| <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" /></a> | <img <a href="https://ibb.co/VY1HqvbD"><img src="https://i.ibb.co/XxQyCz6p/IMG-20260121-134053.jpg" /></a> |
 | [**View App**](https://tsundere-e.onrender.com) | [**View Project**](https://tsundere.streamlit.app/#logic-gate-sim-strawberry-edition) |
 
 
