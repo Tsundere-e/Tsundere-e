@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  
-![til](https://raw.githubusercontent.com/Tsundere-e/My-assets/wmremove-transformed-ezgif.com-optimize.gif)
+  <img src="https://i.imgur.com/mTdjf1r.gif" width="100%" />
 </div>
 
 <div align="center">
