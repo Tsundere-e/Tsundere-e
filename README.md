@@ -5,7 +5,7 @@ $$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
 </div>
 
 $\Huge{\color{violet}{\textsf{ 🌸 About Me}}}$
----
+
   
 <p>
 $\small{\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into}}$
