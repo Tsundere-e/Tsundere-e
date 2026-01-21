@@ -11,6 +11,8 @@ $\textsf{\color{brown}{\small{projects I am on a continuous learning journey in 
 $\textsf{\color{brown}{\small{and am always looking for new challenges to improve my skills.}}}$
 $\textsf{\color{brown}{\small{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}}$
 
+---
+
 <div align="center">
 
 $\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
