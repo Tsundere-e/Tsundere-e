@@ -15,7 +15,7 @@ $\textsf{\color{brown}{\small{I am passionate about organization, aesthetics, an
 
 <div align="center">
 
-$\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
+$\textsf{\color{pink}{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}}$
 
 </div>
 
