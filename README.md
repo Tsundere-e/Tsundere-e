@@ -74,5 +74,5 @@ $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics
 
 <div align="center">
   
-![Footer](https://kyechan9k.capsule-render.github.io/api?type=waving&color=15&height=120&section=footer)
+![Footer](https://kyechan9k.capsule-render.github.io/api?type=waving&color=15&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&height=350&color=_custom_gradient&customGradientList=0:FFC0CB,100:F5F2DC&text=Tsundere%20Profile&fontAlignY=56&desc=THANKS%20FOR%20READING&descSize=25&fontSize=70&fontAlign=60&animation=twinkling&stroke=FFC0CB&strokeWidth=2&descAlign=82&descAlignY=71&section=footer&fontColor=Ffffff)
 </div>
