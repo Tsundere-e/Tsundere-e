@@ -50,7 +50,7 @@ I am a Junior Developer and AI enthusiast! I love turning ideas into projects an
 
 | 🎀 Melody Boutique | 💻 Python Logic |
 | :---: | :---: |
-| <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" alt="IMG-20260121-132036" border="0" /></a>| <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
+| <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" border="0" /></a>| <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
 | [**View Design**](https://tsundere-e.onrender.com) | [**View Repo**](https://github.com/Tsundere-e) |
 
 
