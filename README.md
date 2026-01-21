@@ -21,6 +21,7 @@ $\textsf{\color{brown}{\small{🥧I am always looking for new challenges to impr
 $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}}$
 
 ---
+![Stats de Ana Luisa](https://github-readme-stats.vercel.app/api?username=Tsundere-e&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&icon_color=ff1493&text_color=db7093)
 
 
 **Current Workflow:**
