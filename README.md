@@ -8,7 +8,8 @@
 
 <div align="center">
   
-<img src="My-assets/wmremove-transformed-ezgif.com-optimize.gif" border="0" />
+<img src="" border="0"
+  https://raw.githubusercontent.com/Tsundere-e/My-assets/wmremove-transformed-ezgif.com-optimize.gif>
 </div>
 
 <div align="center">
