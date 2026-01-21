@@ -40,7 +40,19 @@ I am a Junior Developer and AI enthusiast! I love turning ideas into projects an
 | 🍓 [**Viete-Solver**](https://tsundere-e.onrender.com) | A specialized cubic equation solver powered by the Gemini API. | `Python` `AI` `Gemini API` |
 | 🎀 [**My Portfolio**](https://tsundere-e.onrender.com) | My central hub for all my latest projects and W.I.P.s. | `Web` `Design` |
 
-<br />
+### 📸 My Work & Projects
+*A glimpse of what I've been building:*
+
+| 🌸 Sakura Zen | 🍓 Viete-Solver |
+| :---: | :---: |
+| <img src="https://i.ibb.co/xSDNmq9T/unnamed-6.jpg" width="100%" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
+| [**View Live Demo**](https://sakura-zen-omega.vercel.app/) | [**View Project**](https://tsundere-e.onrender.com) |
+
+| 🎀 Melody Boutique | 💻 Python Logic |
+| :---: | :---: |
+| <img src="https://i.ibb.co/r2gD4Vqr/IMG-20260121-132036.jpg" width="100%" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
+| [**View Design**](https://tsundere-e.onrender.com) | [**View Repo**](https://github.com/Tsundere-e) |
+
 
 <div align="center">
   <sub>Cutest coder out there! 💖</sub>
