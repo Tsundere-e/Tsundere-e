@@ -73,5 +73,5 @@ $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics
 
 
 <div align="center">
-  <sub>Cutest coder out there! 💖</sub>
+![Footer](https://kyechan9k.capsule-render.github.io/api?type=waving&color=FFC0CB&height=120&section=footer)
 </div>
