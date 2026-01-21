@@ -1,7 +1,5 @@
-<div align="center">
-  
-$\textsf{\Huge{\color{pink}{Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}}$
-</div>
+<a href="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFC0CB&text=WELCOME!&section=header&fontColor=FFFFFF&fontSize=75&animation=twinkling&descAlign=60&stroke=fbeaf1&strokeWidth=5&fontAlignY=35&fontAlign=40&desc=hello,%20my%20name%20is%20Ana%20Luisa&descAlignY=51&descSize=30">
+
 
 <div align="center">
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
