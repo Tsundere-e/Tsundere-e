@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Tsundere-e/My-assets/wmremove-transformed-ezgif.com-optimize.gif" />
+![til](https://raw.githubusercontent.com/Tsundere-e/My-assets/wmremove-transformed-ezgif.com-optimize.gif)
 </div>
 
 <div align="center">
