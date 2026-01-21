@@ -1,7 +1,7 @@
 # Hi, I'm Ana Luisa! ✨
 
 <div align="center">
-  <img src="https://i.ibb.co/QjTMLz7H/3-Sem-T-tulo-20260121095500.png" width="800"/>
+<a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
 </div>
 
 ### 🌸 About Me
