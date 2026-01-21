@@ -1,4 +1,6 @@
-$\Huge{\textsf{Hi! I'm Ana Luísa. (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}$
+<div align="center">
+  $\Huge{\textsf{Hi! I'm Ana Luísa. (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}$
+</div>
 
 <div align="center">
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
