@@ -4,7 +4,7 @@
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
 </div>
 
-$\Huge{\color{violet}{\textsf{ 🌸 About Me}}$
+$\Huge{\color{violet}{\textsf{ 🌸 About Me}}}$
 ---
 ${\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into projects and am always looking for new challenges to improve my skills. I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
 
