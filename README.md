@@ -68,8 +68,3 @@ $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics
 | :---: | :---: |
 | <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" /></a> | <img <a href="https://ibb.co/VY1HqvbD"><img src="https://i.ibb.co/XxQyCz6p/IMG-20260121-134053.jpg" /></a> |
 | [**View App**](https://tsundere-e.onrender.com) | [**View Project**](https://tsundere.streamlit.app/#logic-gate-sim-strawberry-edition) |
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=350&color=_custom_gradient&customGradientList=0:FFC0CB,100:F5F2DC&text=Tsundere%20Profile&fontAlignY=56&desc=THANKS%20FOR%20READING&descSize=25&fontSize=70&fontAlign=60&animation=twinkling&stroke=FFC0CB&strokeWidth=2&descAlign=82&descAlignY=71&section=footer&fontColor=Ffffff&section=footer)
-
-
