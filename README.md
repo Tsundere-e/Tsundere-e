@@ -6,14 +6,13 @@ $$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
 
 $\Huge{\color{violet}{\textsf{ 🌸 About Me}}}$
 ---
-<section
   
 $\small{\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into projects and am 
 on a continuous learning journey in technology!}}$ |
 $\small{textsf{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}$ |
 $\small{textsf{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$ |
 
-</section>
+---
 
 $$Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design$$
 
