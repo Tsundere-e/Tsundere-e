@@ -55,6 +55,9 @@ $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics
 
 ---
 
+[![Player](https://img.shields.io/badge/Now_Playing-NOT_CUTE_ANYMORE-ffe1fa?style=for-the-badge&logo=soundcloud&logoColor=white)](https://gabalpha.github.io/read-audio/?p=https://api.soundcloud.com/tracks/2218008212/stream?client_id=OT6mCHBDm7J9v68S899S0S5v6S899S0S)
+
+
 ### 📂 Featured Projects
 
 | Project | Description | Stack |
