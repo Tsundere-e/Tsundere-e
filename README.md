@@ -8,8 +8,7 @@
 
 <div align="center">
   
-<a href="https://ibb.co/xtyCdhDZ"><img src="My-assets
-/wmremove-transformed-ezgif.com-optimize.gif" alt="wmremove-transformed-ezgif-com-optimize" border="0" /></a>
+<img src="My-assets/wmremove-transformed-ezgif.com-optimize.gif" border="0" />
 </div>
 
 <div align="center">
