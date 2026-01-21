@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img src="My-assets/wmremove-transformed-ezgif.com-video-to-gif-converter.gif" width="800" />
+  <img src="My-assets/wmremove-transformed-ezgif.com-video-to-gif-converter.gif" width="100%" />
 </div>
 
 <div align="center">
