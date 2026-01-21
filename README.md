@@ -1,6 +1,6 @@
 <div align="center">
   
-"$\textsf{\Huge{\color{pink}{Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}}$
+$\textsf{\Huge{\color{pink}{Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}}$
 </div>
 
 <div align="center">
