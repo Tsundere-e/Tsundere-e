@@ -53,12 +53,12 @@ $\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
 ### 📸 My Work & Projects
 *A glimpse of what I've been building:*
 
-| $\color{pink}{\textsf{🌸 Sakura Zen}}$ | 🍓 Viete-Solver |
+| $\color{pink}{\textsf{🌸 Sakura Zen}}$ |$\color{pink}{\textsf{🍓 Viete-Solver}}$ |
 | :---: | :---: |
 | <img src="https://i.ibb.co/xSDNmq9T/unnamed-6.jpg" width="100%" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
 | [**View Site**](https://sakura-zen-omega.vercel.app/) | [**View Project**](https://tsundere-e.onrender.com) |
 
-| 🎀 Melody Boutique | 💻 Python Logic |
+| $\color{pink}{\textsf{🎀 Melody Boutique}}$ |$\color{pink}{\textsf{💻 Python Logic}}$ |
 | :---: | :---: |
 | <a href="https://ibb.co/KxYTFJBv"><img src="https://i.ibb.co/B2m0q9vM/IMG-20260121-132036.jpg" /></a> | <img <a href="https://ibb.co/VY1HqvbD"><img src="https://i.ibb.co/XxQyCz6p/IMG-20260121-134053.jpg" /></a> |
 | [**View App**](https://tsundere-e.onrender.com) | [**View Project**](https://tsundere.streamlit.app/#logic-gate-sim-strawberry-edition) |
