@@ -1,5 +1,5 @@
 <div align="center">
-$\Huge{\textsf{Hi! I'm Ana Luísa. (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ}}$
+#Hi! I'm Ana Luísa. (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ
 </div>
 
 <div align="center">
