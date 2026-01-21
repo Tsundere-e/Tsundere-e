@@ -1,7 +1,7 @@
 # Hello, I am Ana! 
 
 <div align="center">
-  <img src="https://i.ibb.co/QjTMLz7H/3-Sem-T-tulo-20260121095500.png" width="200" />
+  <img src="https://i.ibb.co/QjTMLz7H/3-Sem-T-tulo-20260121095500.png" width="2000" />
 </div>
 
 ### 🌸 About Me
