@@ -1,7 +1,7 @@
 # Hi, I'm Ana Luisa! ✨
 
 <div align="center">
-  <img src="https://i.ibb.co/QjTmLz7H/3-Sem-T-tulo-20260121095500.png" width=800/>
+  <img src="https://i.ibb.co/QjTMLz7H/3-Sem-T-tulo-20260121095500.png" width="800"/>
 </div>
 
 ### 🌸 About Me
