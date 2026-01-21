@@ -6,7 +6,7 @@
 
 $\Huge{\color{violet}{\textsf{ 🌸 About Me}}}$
 ---
-${\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into projects and am always looking for new challenges to improve my skills. I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
+$\small{\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into projects and am always looking for new challenges to improve my skills. I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
 
 **Current Workflow:**
 * 🔭 **Working on:** [Sakura Zen](https://sakura-zen-omega.vercel.app/) (React + Vite App)
