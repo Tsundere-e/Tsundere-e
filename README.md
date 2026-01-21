@@ -1,4 +1,4 @@
-$$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
+$\textsf{\Huge{\color{pink}{$$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$}}}$
 
 <div align="center">
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
@@ -10,11 +10,11 @@ $\textsf{\color{pink}{Currently \ focused \ on: \ Web \ Development \ and \ UX/U
 
 </div>
 
-$\Huge{\color{pink}{\textsf{🌸 About Me}}}$
+$\huge{\color{pink}{\textsf{🌸 About Me}}}$
 
-$\textsf{\color{brown}{\small{🧇I am a Junior Developer and AI enthusiast! I love turning ideas into}}}$
-$\textsf{\color{brown}{\small{🍫projects I am on a continuous learning journey in technology!}}}$
-$\textsf{\color{brown}{\small{🥧and am always looking for new challenges to improve my skills.}}}$
+$\textsf{\color{brown}{\small{🧇I am a Junior Developer and AI enthusiast! I love turning ideas into projects}}}$
+$\textsf{\color{brown}{\small{🍫I am on a continuous learning journey in technology!}}}$
+$\textsf{\color{brown}{\small{🥧I am always looking for new challenges to improve my skills.}}}$
 $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}}$
 
 ---
