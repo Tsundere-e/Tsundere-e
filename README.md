@@ -1,17 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff99cc&text=WELCOME!&section=header&fontColor=FFFFFF&fontSize=75&animation=twinkling&descAlign=60&stroke=fbeaf1&strokeWidth=5&fontAlignY=35&fontAlign=40&desc=hello,%20my%20name%20is%20Ana%20Luisa&descAlignY=51&descSize=30">
 
 <div align="center">
-  
-<a href="https://ibb.co/1JT9B0Bh"><img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" alt="0663156f6934dbc23801b119ebf4c4c0" width="200" /></a> 
-<a href="https://ibb.co/1JT9B0Bh"><img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" alt="0663156f6934dbc23801b119ebf4c4c0" width="200" /></a>
-<a href="https://ibb.co/1JT9B0Bh"><img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" alt="0663156f6934dbc23801b119ebf4c4c0" width="200" /></a>
+  <img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" width="200" />
+  <img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" width="200" />
+  <img src="https://i.ibb.co/zHZSCmCj/0663156f6934dbc23801b119ebf4c4c0.gif" width="200" />
 </div>
 
-
 <div align="center">
-  
-<a href="https://ibb.co/tGGWkyq"><img src="https://i.ibb.co/Mvv3Wqc/ezgif-6ecfe84cfdb7e9be.gif" alt="ezgif-6ecfe84cfdb7e9be" border="0" /></a>
-
+  <img src="https://i.ibb.co/Mvv3Wqc/ezgif-6ecfe84cfdb7e9be.gif" />
 </div>
 
 <div align="center">
