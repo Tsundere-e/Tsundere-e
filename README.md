@@ -11,7 +11,7 @@ on a continuous learning journey in technology!}}$
 $\small{textsf{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}$ 
 $\small{textsf{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
 
-$$Currently focused on: Web Development and UX/UI Design}}$$
+$$Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design$$
 
 **Current Workflow:**
 * 🔭 **Working on:** [Sakura Zen](https://sakura-zen-omega.vercel.app/) (React + Vite App)
