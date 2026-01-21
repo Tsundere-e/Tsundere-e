@@ -4,27 +4,35 @@ $$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
 <a href="https://ibb.co/k2FL25cB"><img src="https://i.ibb.co/m57n5bzT/3-Sem-T-tulo.png" alt="3-Sem-T-tulo" border="0" />
 </div>
 
+<div>
 $\Huge{\color{violet}{\textsf{ 🌸 About Me}}}$
+</div>
 
-  
-<p>
-$\small{\textsf{I am a Junior Developer and AI enthusiast! I love turning ideas into}}$
-<p>
-  
-</p>
-$\small{\textsf{projects and am on a continuous learning journey in technology!}}$
-<\p>
-  
-<p>
-$\small{textsf{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}$
-</p>
+<br />
 
-<p>
-$\small{textsf{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
-</p>
+<div>
+$\textsf{\small{I am a Junior Developer and AI enthusiast! I love turning ideas into}}$
+<br />
+$\textsf{\small{projects and am on a continuous learning journey in technology!}}$
+</div>
 
+<br />
 
-$$Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design$$
+<div>
+$\textsf{\small{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}$
+</div>
+
+<br />
+
+<div>
+$\textsf{\small{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
+</div>
+
+<br />
+
+<div align="center">
+$\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
+</div>
 
 **Current Workflow:**
 * 🔭 **Working on:** [Sakura Zen](https://sakura-zen-omega.vercel.app/) (React + Vite App)
