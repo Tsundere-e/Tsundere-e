@@ -43,20 +43,17 @@ $\textsf{\color{brown}{\small{🍮I am passionate about organization, aesthetics
 ### 🛠 My Toolbox
 *The tech stack I am currently using:*
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-F5F2DC?style=for-the-badge&logo=css3&logoColor=282829)
+![JavaScript](https://img.shields.io/badge/javascript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-F5F2DC?style=for-the-badge&logo=python&logoColor=282829)
+![React](https://img.shields.io/badge/react-FFC0CB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-F5F2DC?style=for-the-badge&logo=tailwind-css&logoColor=282829)
+![Vite](https://img.shields.io/badge/vite-FFC0CB?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-F5F2DC?style=for-the-badge&logo=git&logoColor=282829)
+![VS Code](https://img.shields.io/badge/VS_Code-FFC0CB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-[![Player](https://img.shields.io/badge/Now_Playing-NOT_CUTE_ANYMORE-ffe1fa?style=for-the-badge&logo=soundcloud&logoColor=white)](https://gabalpha.github.io/read-audio/?p=https://api.soundcloud.com/tracks/2218008212/stream?client_id=OT6mCHBDm7J9v68S899S0S5v6S899S0S)
-
 
 ### 📂 Featured Projects
 
