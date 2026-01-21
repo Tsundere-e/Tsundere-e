@@ -7,9 +7,9 @@ $$Hi! \ I'm \ Ana \ Luísa. \ (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ$$
 $\Huge{\color{pink}{\textsf{🌸 About Me}}}$
 
 $\textsf{\color{brown}{\small{I am a Junior Developer and AI enthusiast! I love turning ideas into}}}$
-$\textsf{\small{projects and am on a continuous learning journey in technology!}}$
-$\textsf{\small{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}$
-$\textsf{\small{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}$
+$\textsf{\color{brown}{\small{projects and am on a continuous learning journey in technology!}}}$
+$\textsf{\color{brown}{\small{I love turning ideas into projects and am always looking for new challenges to improve my skills.}}}$
+$\textsf{\color{brown}{\small{I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.}}}$
 
 <div align="center">
 
