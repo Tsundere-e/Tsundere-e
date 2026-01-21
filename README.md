@@ -5,6 +5,7 @@
 </div>
 
 $\Huge{\textsf{ 🌸 About Me}}$
+---
 I am a Junior Developer and AI enthusiast! I love turning ideas into projects and am always looking for new challenges to improve my skills. I am passionate about organization, aesthetics, and creating solutions that simplify everyday life.
 
 **Current Workflow:**
