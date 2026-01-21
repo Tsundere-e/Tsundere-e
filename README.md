@@ -46,14 +46,14 @@ $\textsf{Currently \ focused \ on: \ Web \ Development \ and \ UX/UI \ Design}$
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🌸 $\color{pink}{\textsf[**Sakura Zen**]}}$(https://sakura-zen-omega.vercel.app/) | A task organization app focused on mental looseness and creative problem solving. | `React` `Tailwind` `Vite` |
+| 🌸 [**Sakura Zen**](https://sakura-zen-omega.vercel.app/) | A task organization app focused on mental looseness and creative problem solving. | `React` `Tailwind` `Vite` |
 | 🍓 [**Viete-Solver**](https://tsundere-e.onrender.com) | A specialized cubic equation solver powered by the Gemini API. | `Python` `AI` `Gemini API` |
 | 🎀 [**My Portfolio**](https://tsundere-e.onrender.com) | My central hub for all my latest projects and W.I.P.s. | `Web` `Design` |
 
 ### 📸 My Work & Projects
 *A glimpse of what I've been building:*
 
-| 🌸 Sakura Zen | 🍓 Viete-Solver |
+| $\color{pink}{\textsf{🌸 Sakura Zen}}$ | 🍓 Viete-Solver |
 | :---: | :---: |
 | <img src="https://i.ibb.co/xSDNmq9T/unnamed-6.jpg" width="100%" /> | <img src="PASTE_IMAGE_LINK_HERE" width="100%" /> |
 | [**View Site**](https://sakura-zen-omega.vercel.app/) | [**View Project**](https://tsundere-e.onrender.com) |
